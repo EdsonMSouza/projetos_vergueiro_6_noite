@@ -4,11 +4,15 @@
 * **Período:** Noite
 
 ## Descrição
-Nesse semestre teremos um novo desafio na construção do nosso Projeto de Desenvolvimento em Aplicações Multiplataforma. O projeto proposto é a criação de um Sistema Móvel (APP Android) com acesso a recursos de interação com API (Sistema Web), utilizando os conceitos aprendidos nas disciplinas de Sistemas Móveis (Android) e disciplinas de Sistemas Web.
+Nesse semestre teremos um novo desafio na construção do nosso Projeto de Desenvolvimento em Aplicações Multiplataforma. 
 
 Os conceitos desenvolvidos nas demais disciplinas anteriores e deste semestre devem ser empregados em sua completude, ou seja, devem estar presentes em todas as etapas do projeto. O projeto não restringe a utilização de outras tecnologias, mesmo que não tenham sido abordadas no curso.
 
-A ideia é desenvolver um aplicativo em Android que utilize recursos de um site (que também será desenvolvido), trocando informações. Na disciplina de Computação Móvel será fornecida toda a estrutura para o desenvolvimento desta parte do projeto.
+## Objetivo
+Desenvolver um aplicativo em Android que utilize recursos de um site, que também deverá ser desenvolvido, trocando informações via API. Na disciplina de Computação Móvel será fornecida toda a estrutura para o desenvolvimento desta parte do projeto.
+
+## Estrutura do Projeto
+![Title](estrutura.png)
 
 Como todo projeto, trabalharemos em grupo e teremos uma série de atividades a serem cumpridas pelos membros do grupo, em datas específicas que serão fornecidas pelo professor. O grupo deverá criar um ambiente no Google Drive e compartilhar o documento disponível acima **Modelo de Projeto** comigo para acompanhamento, realizando as implementações solicitadas para as datas de entrega que estão descritas no **Calendário de Entregas**. Farei as correções de forma online, acessando diretamente o documento no Google Drive. Portanto, não me enviem documentos por e-mail.
 
