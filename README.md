@@ -20,10 +20,17 @@ Os grupos devem ser formados com cinco (5) alunos e comunicados para mim na pró
 
 ## Calendário de Entregas
 * **17/04**
-	+ Nome e RA dos membros do grupo.
-	+ Proposta do projeto.
-	+ Escopo, tarefas e cronograma do projeto.
-	+ Estrutura das Aplicações (Mobile e Web)
+	+ Nome e RA dos membros do grupo
+	+ Proposta do projeto
+	+ Justificativa
+	+ Objetivos geral e específicos
+
+* **24/04**
+	+ Fundamentação Teórica - Parcial
+
+* **01/05**
+	+ Fundamentação Teórica - Completa
+	+ Protótipo e Arquitetura do Aplicativo (Android)
 
 ## Professor
 Edson Melo de Souza, Me. - ([prof.edson.melo@gmail.com](mailto:prof.edson.melo@gmail.com)) - ([Currículo *Lattes*](http://lattes.cnpq.br/2641658716558510))
