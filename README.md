@@ -19,19 +19,22 @@ Como todo projeto, trabalharemos em grupo e teremos uma série de atividades a s
 Os grupos devem ser formados com cinco (5) alunos e comunicados para mim na próxima aula. Grupos formados anteriormente podem ser mantidos, mesmo que seja maior que cinco (5) o número de alunos participantes. **O projeto pode ser desenvolvido de forma individual. Entretanto, devido a complexidade, pode prejudicar sua avaliação por não cumprir todos os requisitos devido ao tempo**.
 
 ## Calendário de Entregas
-* **17/04**
+* **<s>17/04</s>**
 	+ Nome e RA dos membros do grupo
 	+ Proposta do projeto
 	+ Justificativa
 	+ Objetivos geral e específicos
 
-* **24/04**
+* **<s>24/04</s>**
 	+ Fundamentação Teórica - Parcial
 
-* **01/05**
+* **<s>01/05</s>**
 	+ Fundamentação Teórica - Completa
 	+ Protótipo e Arquitetura do Aplicativo (Android)
 
+* **<s>08/05</s>**
+	+ Evolução do Projeto
+	
 * **15/05**
 	+ Entregar protópito de todas as telas
 	+ Mostrar a implementação de pelo menos duas Views (Android)
