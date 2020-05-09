@@ -32,6 +32,13 @@ Os grupos devem ser formados com cinco (5) alunos e comunicados para mim na pró
 	+ Fundamentação Teórica - Completa
 	+ Protótipo e Arquitetura do Aplicativo (Android)
 
+* **15/05**
+	+ Entregar protópito de todas as telas
+	+ Mostrar a implementação de pelo menos duas Views (Android)
+
+* **22/05**
+	+ Mostrar a implementação de todas as telas (Android e Web)
+
 ## Professor
 Edson Melo de Souza, Me. - ([prof.edson.melo@gmail.com](mailto:prof.edson.melo@gmail.com)) - ([Currículo *Lattes*](http://lattes.cnpq.br/2641658716558510))
 
