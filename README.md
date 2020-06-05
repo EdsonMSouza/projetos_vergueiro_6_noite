@@ -42,7 +42,7 @@ Os grupos devem ser formados com cinco (5) alunos e comunicados para mim na pró
 * **22/05**
 	+ Mostrar a implementação de todas as telas (Android e Web)
 
-* **17/06**
+* **19/06**
 	+ Entrega final do Projeto
 		+ Documentação
 		+ Códigos Fonte
